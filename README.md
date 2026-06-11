@@ -89,9 +89,9 @@ camila = {
 
 <div align="center">
 
-<a href="https://github.com/Camila-Rojas-Molina">
+<!-- <a href="https://github.com/Camila-Rojas-Molina">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Camila-Rojas-Molina&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF1B6B&text_color=F8F8F2&icon_color=B91EFD&ring_color=FF1B6B" alt="GitHub Stats" />
-</a>
+</a> -->
 <a href="https://github.com/Camila-Rojas-Molina">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Camila-Rojas-Molina&theme=radical&hide_border=true&background=0D1117&stroke=B91EFD&ring=FF1B6B&fire=45D1FF&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=FF1B6B&sideLabels=B91EFD&dates=F8F8F2" alt="GitHub Streak" />
 </a>
