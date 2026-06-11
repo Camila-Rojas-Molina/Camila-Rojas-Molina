@@ -90,17 +90,17 @@ camila = {
 <div align="center">
 
 <!-- <a href="https://github.com/Camila-Rojas-Molina">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Camila-Rojas-Molina&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF1B6B&text_color=F8F8F2&icon_color=B91EFD&ring_color=FF1B6B" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Camila-Rojas-Molina&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=F5F0E8&title_color=FF1B6B&text_color=2D2D2D&icon_color=B91EFD&ring_color=FF1B6B" alt="GitHub Stats" />
 </a> -->
 <a href="https://github.com/Camila-Rojas-Molina">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Camila-Rojas-Molina&theme=radical&hide_border=true&background=0D1117&stroke=B91EFD&ring=FF1B6B&fire=45D1FF&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=FF1B6B&sideLabels=B91EFD&dates=F8F8F2" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Camila-Rojas-Molina&hide_border=true&background=F5F0E8&stroke=B91EFD&ring=FF1B6B&fire=FF1B6B&currStreakNum=2D2D2D&sideNums=2D2D2D&currStreakLabel=FF1B6B&sideLabels=B91EFD&dates=2D2D2D" alt="GitHub Streak" />
 </a>
 
 <a href="https://github.com/Camila-Rojas-Molina">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-Rojas-Molina&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1B6B&text_color=F8F8F2&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-Rojas-Molina&layout=compact&hide_border=true&bg_color=F5F0E8&title_color=FF1B6B&text_color=2D2D2D&langs_count=8" alt="Top Languages" />
 </a>
 <a href="https://wakatime.com/@CamilaRojas">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=CamilaRojas&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1B6B&text_color=F8F8F2" alt="Wakatime Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=CamilaRojas&layout=compact&hide_border=true&bg_color=F5F0E8&title_color=FF1B6B&text_color=2D2D2D" alt="Wakatime Stats" />
 </a>
 
 </div>
