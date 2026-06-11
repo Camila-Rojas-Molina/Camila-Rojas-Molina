@@ -1,11 +1,11 @@
 <h1 align="center">
   Hi, I'm Cami
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Waving%20Hand.png" width="32" />
+  
 </h1>
 
 <div align="center">
   <a href="https://github.com/Camila-Rojas-Molina">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1B6B&center=true&vCenter=true&width=620&lines=Machine+Learning+Trainee+%40+Mila+Quebec+AI+Institute;CS+%40+Concordia+University;Hackathon+Builder+%E2%9A%A1+Research+Curious;Always+shipping+something+new+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1B6B&center=true&vCenter=true&width=780&lines=Machine+Learning+Trainee+%40+Mila+Quebec+AI+Institute;CS+%40+Concordia+University;Hackathon+Builder+%E2%9A%A1+Research+Curious;Volleyball+addict+%F0%9F%8F%90" alt="Typing SVG" />
   </a>
 </div>
 
