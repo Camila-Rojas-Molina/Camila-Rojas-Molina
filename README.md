@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:c_roja@live.concordia.ca">
-    <img src="https://img.shields.io/badge/-kmi.rojas.molina%40gmail.com-FF1B6B?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-c_roja%40live.concordia.com-FF1B6B?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/-Montréal%2C%20QC-45D1FF?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/-She%2FHer-B91EFD?style=flat-square" />
