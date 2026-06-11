@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:kmi.rojas.molina@gmail.com">
+  <a href="mailto:c_roja@live.concordia.ca">
     <img src="https://img.shields.io/badge/-kmi.rojas.molina%40gmail.com-FF1B6B?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/-Montréal%2C%20QC-45D1FF?style=flat-square&logo=googlemaps&logoColor=white" />
