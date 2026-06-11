@@ -24,15 +24,17 @@
 
 ## About Me
 
-I'm a **machine learning trainee at [Mila — Quebec AI Institute](https://mila.quebec/)** and a CS student at **Concordia University**. I love turning research papers into things you can actually click on, and I spend most weekends hacking on ML projects, building at hackathons, or breaking something just to learn how it works.
+I love building things — products, communities, and now AI systems. Currently training in ML and data science at **[AI4Good Lab by Mila](https://mila.quebec/)**, exploring everything from neural networks to NLP, and finding ways to make AI actually useful for people.
+
+CS student at **Concordia** (co-op), originally from Peru 🇵🇪, with a thing for hackathons, leadership, and working across languages and cultures.
 
 ```python
 camila = {
-    "role":       "ML Trainee @ Mila",
-    "studying":   "Computer Science @ Concordia University",
-    "loves":      ["deep learning", "hackathons", "good design"],
-    "currently":  "training models faster than my coffee cools down ☕",
-    "open_to":    ["research collabs", "ML internships", "cool ideas"],
+    "role":       "ML Trainee @ AI4Good Lab by Mila",
+    "studying":   "Computer Science @ Concordia University (co-op)",
+    "from":       "Lima, Peru 🇵🇪 → Montréal, QC",
+    "loves":      ["building products", "NLP", "hackathons", "communities"],
+    "open_to":    "fall 2026 internships 👀",
 }
 ```
 
@@ -45,8 +47,7 @@ camila = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Machine Learning & Data**
@@ -70,7 +71,6 @@ camila = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -81,7 +81,6 @@ camila = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
