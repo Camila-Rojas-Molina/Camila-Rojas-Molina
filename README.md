@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Camila
+  Hi, I'm Cami
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Waving%20Hand.png" width="32" />
 </h1>
 
@@ -108,19 +108,7 @@ camila = {
 
 ### Achievements
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Camila-Rojas-Molina&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-  </a>
-</div>
-
-### Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Camila-Rojas-Molina&bg_color=0D1117&color=FF1B6B&line=B91EFD&point=45D1FF&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
+TBA
 
 ## Contribution Game
 
@@ -133,7 +121,15 @@ camila = {
   </picture>
 </div>
 
-<p align="center"><sub>🐍 The snake above eats my GitHub contributions every 24 hours. Squares with more commits are tastier.</sub></p>
+<p align="center"><sub>🐍 The snake above eats my GitHub contributions every 24 hours.</sub></p>
+
+---
+
+### Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Camila-Rojas-Molina&bg_color=0D1117&color=FF1B6B&line=B91EFD&point=45D1FF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
