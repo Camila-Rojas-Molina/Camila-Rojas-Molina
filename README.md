@@ -99,8 +99,8 @@ camila = {
 <a href="https://github.com/Camila-Rojas-Molina">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-Rojas-Molina&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1B6B&text_color=F8F8F2&langs_count=8" alt="Top Languages" />
 </a>
-<a href="https://wakatime.com/@Camila-Rojas-Molina">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=Camila-Rojas-Molina&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1B6B&text_color=F8F8F2" alt="Wakatime Stats" />
+<a href="https://wakatime.com/@CamilaRojas">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=CamilaRojas&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1B6B&text_color=F8F8F2" alt="Wakatime Stats" />
 </a>
 
 </div>
