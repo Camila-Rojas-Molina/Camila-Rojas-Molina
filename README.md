@@ -105,9 +105,9 @@ camila = {
 
 </div>
 
-### Achievements
+<!-- ### Achievements
 
-TBA
+TBA -->
 
 ## Contribution Game
 
@@ -151,6 +151,3 @@ TBA
 
 <br>
 
-<div align="center">
-  <sub>Built with ☕, late nights, and a suspicious number of browser tabs.</sub>
-</div>
