@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/Camila-Rojas-Molina">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1B6B&center=true&vCenter=true&width=780&lines=Data+Scientist+%40+Intact+Lab;Machine+Learning+Trainee+%40+Mila+Quebec+AI+Institute;CS+%40+Concordia+University;Hackathon+Builder+%E2%9A%A1+Research+Curious;Volleyball+addict+%F0%9F%8F%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1B6B&center=true&vCenter=true&width=780&lines=Data+Scientist+%40+Intact+Lab;Prev+Machine+Learning+Trainee+%40+Mila+Quebec+AI+Institute;CS+%40+Concordia+University;Hackathon+Builder+%E2%9A%A1+Research+Curious;Volleyball+addict+%F0%9F%8F%90" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
 
 ## About Me
 
-I love building things — products, communities, and now AI systems. Currently training in ML and data science at **[AI4Good Lab by Mila](https://mila.quebec/)**, exploring everything from neural networks to NLP, and finding ways to make AI actually useful for people.
+I love building things — products, communities, and now AI systems. Currently growing with and learning from my awesome team at Intact, modelling with telematics data in the UBI (Usage-based Insurance) department of the lab, as well as helping out AI dev task in the production level of our prduct. Previously trained in ML/DL and data science at **[AI4Good Lab by Mila](https://mila.quebec/)**, explored everything from neural networks to NLP, and finding ways to make AI actually useful for people and essentially impactful.
 
 CS student at **Concordia** (co-op), originally from Peru 🇵🇪, with a thing for hackathons, leadership, and working across languages and cultures.
 
