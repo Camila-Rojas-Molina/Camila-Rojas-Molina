@@ -24,7 +24,7 @@
 
 ## About Me
 
-I love building things — products, communities, and now AI systems. Currently growing with and learning from my awesome team at Intact, modelling with telematics data in the UBI (Usage-based Insurance) department of the lab, as well as helping out AI dev task in the production level of our prduct. Previously trained in ML/DL and data science at **[AI4Good Lab by Mila](https://mila.quebec/)**, explored everything from neural networks to NLP, and finding ways to make AI actually useful for people and essentially impactful.
+I love building things — products, communities, and now AI systems. Currently growing with and learning from my awesome team at **[Intact](https://www.intactfc.com/about-us/intact-lab), modelling with telematics data in the UBI (Usage-based Insurance) department of the lab, as well as helping out AI dev task in the production level of our prduct. Previously trained in ML/DL and data science at **[AI4Good Lab by Mila](https://mila.quebec/)**, explored everything from neural networks to NLP, and finding ways to make AI actually useful for people and essentially impactful.
 
 CS student at **Concordia** (co-op), originally from Peru 🇵🇪, with a thing for hackathons, leadership, and working across languages and cultures.
 
