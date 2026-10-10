@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/Camila-Rojas-Molina">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1B6B&center=true&vCenter=true&width=780&lines=Machine+Learning+Trainee+%40+Mila+Quebec+AI+Institute;CS+%40+Concordia+University;Hackathon+Builder+%E2%9A%A1+Research+Curious;Volleyball+addict+%F0%9F%8F%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1B6B&center=true&vCenter=true&width=780&lines=Data+Scientist+%40+Intact+Financial+Corporation;Machine+Learning+Trainee+%40+Mila+Quebec+AI+Institute;CS+%40+Concordia+University;Hackathon+Builder+%E2%9A%A1+Research+Curious;Volleyball+addict+%F0%9F%8F%90" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,11 +30,11 @@ CS student at **Concordia** (co-op), originally from Peru 🇵🇪, with a thing
 
 ```python
 camila = {
-    "role":       "ML Trainee @ AI4Good Lab by Mila",
+    "role":       "Data Scientist @ Intact Financial Corporation - Intact Lab", " Prev ML Trainee @ AI4Good Lab by Mila",
     "studying":   "Computer Science @ Concordia University (co-op)",
-    "from":       "Lima, Peru 🇵🇪 → Montréal, QC",
+    "from":       "Lima, Peru 🇵🇪 → Virginia, US, → Montréal, QC",
     "loves":      ["building products", "NLP", "hackathons", "communities"],
-    "open_to":    "fall 2026 internships 👀",
+    "open_to":    "winter 2027 internships 👀",
 }
 ```
 
@@ -59,6 +59,8 @@ camila = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Frontend**
 
@@ -80,6 +82,7 @@ camila = {
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
